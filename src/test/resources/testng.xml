@@ -1,0 +1,22 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Suite1" verbose="1">
+    <test name="Node1">
+        <classes>
+            <class name="com.tests.packageOne.SampleTestClass0"/>
+            <class name="com.tests.packageOne.SampleTestClass2"/>
+            <class name="com.tests.packageOne.SampleTestClass3"/>
+            <class name="com.tests.packageOne.SampleTestClass4"/>
+            <class name="com.tests.packageOne.SampleTestClass5"/>
+            <class name="com.tests.packageOne.SampleTestClass6"/>
+            <class name="com.tests.packageOne.SampleTestClass7"/>
+            <class name="com.tests.packageOne.SampleTestClass8"/>
+            <class name="com.tests.packageOne.SampleTestClass9"/>
+        </classes>
+    </test>
+    <test name="Node2">
+        <classes>
+            <class name="com.tests.packageOne.SampleTestClass1"/>
+        </classes>
+    </test>
+</suite>
