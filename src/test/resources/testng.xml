@@ -10,13 +10,17 @@
             <class name="com.tests.packageOne.SampleTestClass5"/>
             <class name="com.tests.packageOne.SampleTestClass6"/>
             <class name="com.tests.packageOne.SampleTestClass7"/>
-            <class name="com.tests.packageOne.SampleTestClass8"/>
-            <class name="com.tests.packageOne.SampleTestClass9"/>
         </classes>
     </test>
     <test name="Node2">
         <classes>
             <class name="com.tests.packageOne.SampleTestClass1"/>
+        </classes>
+    </test>
+    <test name="Node3">
+        <classes>
+            <class name="com.tests.packageOne.SampleTestClass8"/>
+            <class name="com.tests.packageOne.SampleTestClass9"/>
         </classes>
     </test>
 </suite>

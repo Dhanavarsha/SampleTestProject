@@ -9,11 +9,11 @@ public class SampleTestClass9 {
     }
     @Test
     public void test1() {
-        Utils.wait(1000);
+        Utils.wait(5000);
     }
     @Test
     public void test2() {
-        Utils.wait(1000);
+        Utils.wait(3000);
     }
     @Test
     public void test3() {
@@ -21,7 +21,7 @@ public class SampleTestClass9 {
     }
     @Test
     public void test4() {
-        Utils.wait(1000);
+        Utils.wait(5000);
     }
     @Test
     public void test5() {
@@ -37,10 +37,10 @@ public class SampleTestClass9 {
     }
     @Test
     public void test8() {
-        Utils.wait(1000);
+        Utils.wait(2000);
     }
     @Test
     public void test9() {
-        Utils.wait(1000);
+        Utils.wait(2000);
     }
 }

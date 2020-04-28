@@ -13,34 +13,34 @@ public class SampleTestClass6 {
     }
     @Test
     public void test2() {
-        Utils.wait(1000);
+        Utils.wait(500);
     }
     @Test
     public void test3() {
-        Utils.wait(1000);
+        Utils.wait(500);
     }
     @Test
     public void test4() {
-        Utils.wait(1000);
+        Utils.wait(500);
     }
     @Test
     public void test5() {
-        Utils.wait(1000);
+        Utils.wait(500);
     }
     @Test
     public void test6() {
-        Utils.wait(1000);
+        Utils.wait(500);
     }
     @Test
     public void test7() {
-        Utils.wait(1000);
+        Utils.wait(500);
     }
     @Test
     public void test8() {
-        Utils.wait(1000);
+        Utils.wait(500);
     }
     @Test
     public void test9() {
-        Utils.wait(1000);
+        Utils.wait(500);
     }
 }

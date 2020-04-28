@@ -5,19 +5,19 @@ import org.testng.annotations.Test;
 public class SampleTestClass3 {
     @Test
     public void test0() {
-        Utils.wait(1000);
+        Utils.wait(500);
     }
     @Test
     public void test1() {
-        Utils.wait(1000);
+        Utils.wait(500);
     }
     @Test
     public void test2() {
-        Utils.wait(1000);
+        Utils.wait(500);
     }
     @Test
     public void test3() {
-        Utils.wait(1000);
+        Utils.wait(500);
     }
     @Test
     public void test4() {

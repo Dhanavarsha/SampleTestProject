@@ -9,19 +9,19 @@ public class SampleTestClass5 {
     }
     @Test
     public void test1() {
-        Utils.wait(1000);
+        Utils.wait(500);
     }
     @Test
     public void test2() {
-        Utils.wait(1000);
+        Utils.wait(500);
     }
     @Test
     public void test3() {
-        Utils.wait(1000);
+        Utils.wait(500);
     }
     @Test
     public void test4() {
-        Utils.wait(1000);
+        Utils.wait(500);
     }
     @Test
     public void test5() {
