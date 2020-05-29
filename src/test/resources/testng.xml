@@ -1,7 +1,7 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
 
 <suite name="Suite1" verbose="1">
-    <test name="Node1">
+    <test name="node_1">
         <classes>
             <class name="com.tests.packageOne.SampleTestClass0"/>
             <class name="com.tests.packageOne.SampleTestClass2"/>
@@ -12,12 +12,12 @@
             <class name="com.tests.packageOne.SampleTestClass7"/>
         </classes>
     </test>
-    <test name="Node2">
+    <test name="node_2">
         <classes>
             <class name="com.tests.packageOne.SampleTestClass1"/>
         </classes>
     </test>
-    <test name="Node3">
+    <test name="node_3">
         <classes>
             <class name="com.tests.packageOne.SampleTestClass8"/>
             <class name="com.tests.packageOne.SampleTestClass9"/>
